@@ -1,0 +1,13 @@
+section button {
+    width: 5rem;
+    height: 2.5rem;
+}
+
+section .languages {
+    width: 25rem;
+    height: 2.5rem;
+}
+
+.red {
+    color: red;
+}
