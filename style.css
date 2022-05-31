@@ -13,7 +13,6 @@ section .languages {
 }
 
 ul {
-    border: 2px solid black;
     position: relative;
 }
 
