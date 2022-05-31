@@ -7,7 +7,7 @@
 - Likewise, data can be deleted by pressing the delete key. 
 - Gives a warning when there is no data to be deleted.
 
-[Link is here...][https://huseyin-aln.github.io/domEventExample/]
+Link is here....https://huseyin-aln.github.io/domEventExample/
 
-!(![domEventExample](https://user-images.githubusercontent.com/101873227/171109012-532d7986-bebd-477a-9eee-d112c955a4da.gif)
-)[DOM Events Example]
+![domEventExample](https://user-images.githubusercontent.com/101873227/171109012-532d7986-bebd-477a-9eee-d112c955a4da.gif)
+
