@@ -11,3 +11,13 @@ section .languages {
 .red {
     color: red;
 }
+
+ul {
+    border: 2px solid black;
+    position: relative;
+}
+
+li {
+    position: relative;
+    left: 30%;
+}
